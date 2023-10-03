@@ -1,6 +1,6 @@
 #CS104
 #Mike Montulet
-#conditions/py
+#conditions.py
 
 howMany = int(input("How many times would you like to try the program? "))
 currentTry = 0
